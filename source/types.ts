@@ -3,6 +3,10 @@ export enum ScriptType {
     json = 'application/json'
 }
 
+export enum Resource {
+    caption = 'https://unpkg.com/vamtiger-arting-health-logo-json-ld@latest'
+}
+
 export interface IAnyObject {
     [key: string]: any;
 }
