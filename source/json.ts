@@ -2,8 +2,8 @@ import {
     Resource
 } from './types';
 
-const { caption } = Resource;
+const { svgCaption } = Resource;
 
 export default {
-    caption
+    svgCaption
 };
