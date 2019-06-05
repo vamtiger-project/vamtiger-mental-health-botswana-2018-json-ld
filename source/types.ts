@@ -13,4 +13,4 @@ export interface ILoadScript {
     data: IAnyObject;
 }
 
-export const url = 'https://unpkg.com/vamtiger-mental-health-botswana-2018-json-ld@latest';
+export const url = 'https://unpkg.com/vamtiger-mental-health-botswana-json-ld@latest';
