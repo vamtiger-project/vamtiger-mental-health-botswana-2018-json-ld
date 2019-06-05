@@ -1,6 +1,6 @@
 {
     "name": "vamtiger-mental-health-botswana-json-ld",
-    "version": "0.0.8",
+    "version": "0.0.9-0",
     "description": "VAMTIGER Infers Group Mental Health Street Art Botswana 2018",
     "main": "build/vamtiger-mental-health-botswana-2018-json-ld.js",
     "repository": {
