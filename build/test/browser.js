@@ -1,0 +1,2 @@
+!function(t,e){"use strict";const{VamtigerBrowserMethod:n}=window,{loadScript:a}=n;e.setup("bdd"),(()=>describe("vamtiger-mental-health-botswana-2018-json-ld",function(){before(async function(){await a({src:"vamtiger-mental-health-botswana-2018-json-ld.js"})}),it("load script",async function(){const e=document.head.querySelector('[src="vamtiger-mental-health-botswana-2018-json-ld.js"]');t.expect(e instanceof HTMLScriptElement).to.be.true})}))(),e.run()}(chai,mocha);
+//# sourceMappingURL=browser.js.map
