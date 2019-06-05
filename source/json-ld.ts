@@ -4,7 +4,7 @@ const jsonLd = {
     name: 'Mental Health',
     description: 'Depression',
     datePublished: '05 June 2019',
-    image: 'https://unpkg.com/vamtiger-mental-health-botswana-2018-json-ld@latest/vamtiger-mental-health-botswana-2018-json-ld.jpg',
+    image: 'https://unpkg.com/vamtiger-mental-health-botswana-json-ld@latest/vamtiger-mental-health-botswana-2018-json-ld.jpg',
     founder: [
         {
             '@type': 'Person',
