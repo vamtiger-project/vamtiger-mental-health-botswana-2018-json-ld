@@ -1,5 +1,5 @@
 const jsonLd = {
-    '@context': 'http://schema.org/',
+    '@context': 'http://schema.org',
     '@type': 'VisualArtwork',
     name: 'Arting Health',
     description: 'Mental Health - Depression',
