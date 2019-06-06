@@ -1,8 +1,8 @@
 const jsonLd = {
     '@context': 'http://schema.org/',
     '@type': 'VisualArtwork',
-    name: 'Mental Health',
-    description: 'Depression',
+    name: 'Arting Health',
+    description: 'Mental Health - Depression',
     datePublished: '05 June 2019',
     image: 'https://unpkg.com/vamtiger-mental-health-botswana-json-ld@latest/vamtiger-mental-health-botswana-2018-json-ld.jpg',
     founder: [
