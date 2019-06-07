@@ -1,7 +1,7 @@
 const jsonLd = {
     '@context': 'http://schema.org',
     '@type': 'VisualArtwork',
-    name: 'Arting Health',
+    name: 'Arting Health - Botswana',
     description: 'Mental Health - Depression',
     datePublished: '05 June 2019',
     about: {
