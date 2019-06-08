@@ -16,7 +16,7 @@ const jsonLd = {
             '@type': 'Organization',
             name: 'Infers Group',
             description: 'Social Entrepreneurship, Science Communication, Public Engagement, Art Science and Community Collaboration',
-            url: 'http://artinghealth.infersgroup.com',
+            url: 'http://infersgroup.com',
             email: 'mailto:info@infersgroup.com'
         },
         {
