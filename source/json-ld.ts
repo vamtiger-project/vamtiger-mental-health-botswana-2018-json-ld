@@ -13,6 +13,7 @@ const jsonLd = {
     image: 'https://unpkg.com/vamtiger-mental-health-botswana-json-ld@latest/vamtiger-mental-health-botswana-2018-json-ld.jpg',
     producer: [
         {
+            '@context': 'http://schema.org',
             '@type': 'Organization',
             name: 'Infers Group',
             description: 'Social Entrepreneurship, Science Communication, Public Engagement, Art Science and Community Collaboration',
@@ -20,6 +21,7 @@ const jsonLd = {
             email: 'mailto:info@infersgroup.com'
         },
         {
+            '@context': 'http://schema.org',
             '@type': 'Person',
             name: 'Abraham Mamela',
             description: 'Social Entrepreneurship, Science Communication and Public Engagement Professional',
