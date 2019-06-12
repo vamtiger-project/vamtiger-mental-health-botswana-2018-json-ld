@@ -17,4 +17,4 @@ export interface ILoadScript {
     data: IAnyObject;
 }
 
-export const url = 'https://unpkg.com/vamtiger-mental-health-botswana-json-ld@latest';
+export const url = 'https://cdn.jsdelivr.net/npm/vamtiger-mental-health-botswana-json-ld@latest/build/vamtiger-mental-health-botswana-2018-json-ld.js';
