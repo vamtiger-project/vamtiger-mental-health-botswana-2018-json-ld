@@ -13,4 +13,4 @@ export interface ILoadScript {
     url: string;
     data: IAnyObject;
 }
-export declare const url = "https://cdn.jsdelivr.net/npm/vamtiger-mental-health-botswana-json-ld@latest/build/vamtiger-mental-health-botswana-2018-json-ld.js";
+export declare const url = "https://vamtiger-project.github.io/vamtiger-mental-health-botswana-json-ld/build/vamtiger-mental-health-botswana-2018-json-ld.js";

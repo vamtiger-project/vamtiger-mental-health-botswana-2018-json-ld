@@ -9,5 +9,5 @@ var Resource;
 (function (Resource) {
     Resource["svgCaption"] = "https://unpkg.com/vamtiger-arting-health-logo-json-ld@latest";
 })(Resource = exports.Resource || (exports.Resource = {}));
-exports.url = 'https://cdn.jsdelivr.net/npm/vamtiger-mental-health-botswana-json-ld@latest/build/vamtiger-mental-health-botswana-2018-json-ld.js';
+exports.url = 'https://vamtiger-project.github.io/vamtiger-mental-health-botswana-json-ld/build/vamtiger-mental-health-botswana-2018-json-ld.js';
 //# sourceMappingURL=types.js.map
