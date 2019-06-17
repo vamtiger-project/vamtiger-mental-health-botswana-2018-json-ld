@@ -4,7 +4,7 @@ export enum ScriptType {
 }
 
 export enum Resource {
-    svgCaption = 'https://unpkg.com/vamtiger-arting-health-logo-json-ld@latest'
+    svgCaption = 'https://vamtiger-project.github.io/vamtiger-arting-health-logo-json-ld/build/vamtiger-arting-health-logo-json-ld.js'
 }
 
 export interface IAnyObject {
