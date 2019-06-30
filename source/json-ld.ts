@@ -12,7 +12,7 @@ const jsonLd = {
         name: Text['about-name.txt'],
         description: Text['about-description.txt']
     },
-    image: 'https://vamtiger-project.github.io/vamtiger-mental-health-botswana-json-ld/build/vamtiger-mental-health-botswana-2018-json-ld.jpg',
+    image: 'https://vamtiger-project.github.io/vamtiger-mental-health-botswana-json-ld/vamtiger-mental-health-botswana-2018-json-ld.jpg',
     producer: true,
     creator: true,
     funder: true,
