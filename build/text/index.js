@@ -1,0 +1,4 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.default = { "about-description.txt": "A collaborative science communication and public engagement project on depression between artists, scientists and community members by Infers Group", "about-name.txt": "Infers Group - Arting Health\n\nScience Communication and Public Engagement Project on Mental Health", "keywords.txt": "Infers Group,\nArting Health,\nArt Health,\nHealth Art,\nSciart,\nScientific Art,\nScience Art,\nArt Science,\nScience Communication,\nPublic Engagement,\nSocial Entrepreneurship" };
+//# sourceMappingURL=index.js.map
